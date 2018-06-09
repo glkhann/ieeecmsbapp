@@ -1,0 +1,77 @@
+[
+  {
+    "time":"Time",
+    "activities":"Activities",
+    "BoN":"bold"
+  },
+  {
+    "time":"09:00-9:05",
+    "activities":"Performance",
+    "BoN":"normal"
+  },
+  {
+    "time":"09:05-10:00",
+    "activities":"Gold Award Recipients On-Stage Pitching",
+    "BoN":"bold"
+  },
+  {
+    "time":"10:15-10:25",
+    "activities":"Performance",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:25-10:35",
+    "activities":"Industrial Talk by Shell",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:45-10:55",
+    "activities":"Industrial Talk by SIRIM Measurement",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:55-11:05",
+    "activities":"Lucky Draw",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:40-10:50",
+    "activities":"Talk by IM4U",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:40-10:50",
+    "activities":"Industrial Talk By Chumbaka",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:40-10:50",
+    "activities":"Lucky Draw",
+    "BoN":"normal"
+  },
+  {
+    "time":"",
+    "activities":"Closing Ceremony",
+    "BoN":"bold"
+  },
+  {
+    "time":"10:40-10:50",
+    "activities":"Performance",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:40-10:50",
+    "activities":"Lucky Draw",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:40-10:50",
+    "activities":"Lucky Draw",
+    "BoN":"normal"
+  },
+  {
+    "time":"",
+    "activities":"End Of Closing Ceremony",
+    "BoN":"bold"
+  }
+]

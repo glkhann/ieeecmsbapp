@@ -1,0 +1,82 @@
+[
+  {
+    "time":"Time",
+    "activities":"Activities",
+    "BoN":"bold"
+  },
+  {
+    "time":"09:00-10:15",
+    "activities":"Expo Start",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:15-10:30",
+    "activities":"Arrival of VIPs",
+    "BoN":"normal"
+  },
+  {
+    "time":"",
+    "activities":"Opening Ceremony",
+    "BoN":"bold"
+  },
+  {
+    "time":"10:30-10:40",
+    "activities":"Safety Briefings",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:40-10:50",
+    "activities":"Welcoming Speech by Mr.Kong Sheng How, President of IEEE Curtin Malaysia Student Branch",
+    "BoN":"normal"
+  },
+  {
+    "time":"10:50-11:00",
+    "activities":"Opening Speech by Ir. Professor Dr. Lau Hieng Ho, Dean of Faculty of Engineering and Science",
+    "BoN":"normal"
+  },
+  {
+    "time":"11:00-11:10",
+    "activities":"Speech by Professor Jim Mienczakowski, Curtin Malaysia's Pro Vice-Chancellor & Chief Executive",
+    "BoN":"normal"
+  },
+  {
+    "time":"11:10-11:20",
+    "activities":"Speech by Ms.Sumitra Nair Director, Talent & Digital Entreprenuership(MDEC) Launching of Digital Maker Movement",
+    "BoN":"normal"
+  },
+  {
+    "time":"11:20-11:30",
+    "activities":"MoUs Exchange Ceremony \n\n(1) Exchange of MoU between Curtin Malaysia and Keysight Technologies \n\n (2) Exchange of MoU between Curtin Malaysia and SIRIM Measurement",
+    "BoN":"normal"
+  },
+  {
+    "time":"11:30-11:40",
+    "activities":"Launching of Solar Lamp Delivery by YB Dato Sebastian Ting",
+    "BoN":"normal"
+  },
+  {
+    "time":"11:40-12:00",
+    "activities":"Launching of Digital Maker Expo",
+    "BoN":"normal"
+  },
+  {
+    "time":"",
+    "activities":"End of Opening Ceremony",
+    "BoN":"bold"
+  },
+  {
+    "time":"12:20-12:25",
+    "activities":"Performance",
+    "BoN":"normal"
+  },
+  {
+    "time":"12:25-12:35",
+    "activities":"Lucky Draw",
+    "BoN":"normal"
+  },
+  {
+    "time":"11:30-11:40",
+    "activities":"Launching of Solar Lamp Delivery by YB Dato Sebastian Ting",
+    "BoN":"normal"
+  }
+]
